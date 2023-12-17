@@ -19,7 +19,7 @@ export default {
       // set an explicit last modified date
       // useful to keep zip hashes identical when the contents haven't changed
       // defaults to the current time
-      overrideModifiedDate: false,
+      overrideModifiedDate: new Date(0),
     }),
   ],
 };
