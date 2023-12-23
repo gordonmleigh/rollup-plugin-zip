@@ -38,6 +38,7 @@
     "rollup": "^4"
   },
   "devDependencies": {
+    "@types/archiver": "^6.0.2",
     "@types/node": "^20.10.4",
     "@typescript-eslint/eslint-plugin": "^6.14.0",
     "@typescript-eslint/parser": "^6.14.0",
@@ -49,6 +50,6 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "jszip": "^3.10.1"
+    "archiver": "^6.0.1"
   }
 }
