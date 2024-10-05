@@ -9,5 +9,6 @@
     "editor.codeActionsOnSave": {
       "source.organizeImports": "explicit"
     }
-  }
+  },
+  "eslint.useFlatConfig": true
 }
