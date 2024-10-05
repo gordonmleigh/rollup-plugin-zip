@@ -1,6 +1,6 @@
 {
   "name": "@gordonmleigh/rollup-plugin-zip",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "type": "module",
   "author": {
     "name": "Gordon Leigh"

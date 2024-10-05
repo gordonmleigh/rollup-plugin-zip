@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/gordonmleigh/rollup-plugin-zip/compare/v0.1.4...v0.1.5) (2024-10-05)
+
+
+### Chore
+
+* use corepack ([41f73c6](https://github.com/gordonmleigh/rollup-plugin-zip/commit/41f73c6f11066673f1606046d8d920f74a40d6d3))
+
 ## [0.1.4](https://github.com/gordonmleigh/rollup-plugin-zip/compare/v0.1.3...v0.1.4) (2024-10-05)
 
 
