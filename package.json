@@ -41,7 +41,9 @@
     }
   },
   "files": [
-    "lib/"
+    "src/",
+    "lib/",
+    "!*.test.*"
   ],
   "peerDependencies": {
     "rollup": "^4"
