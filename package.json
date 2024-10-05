@@ -5,6 +5,9 @@
   "author": {
     "name": "Gordon Leigh"
   },
+  "engines": {
+    "node": ">=18"
+  },
   "description": "A Rollup plugin to bundle files into a zip",
   "keywords": [
     "rollup-plugin",
@@ -47,6 +50,6 @@
     "typescript": "~5.5"
   },
   "dependencies": {
-    "archiver": "^6.0.1"
+    "zip24": "^0.1.6"
   }
 }
