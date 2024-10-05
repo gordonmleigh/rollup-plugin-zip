@@ -6,9 +6,16 @@ A Rollup plugin to bundle files into a zip.
 import zip from "@gordonmleigh/rollup-plugin-zip";
 
 export default {
+  // in this case, the file will be called "index.js" in the zip
   input: "lib/index.js",
 
+  // it also supports multiple entry points:
+  // input: {
+  //   entry: "lib/index.js",
+  // }
+
   output: {
+    // the zip will be output as "dist/bundle.zip"
     file: "dist/index.mjs",
   },
 

@@ -14,10 +14,10 @@
     "target": "ES2022",
     // output
     "declaration": true,
-    "declarationMap": false,
+    "declarationMap": true,
     "isolatedModules": true,
     "outDir": "lib/",
-    "sourceMap": false,
+    "sourceMap": true,
     "verbatimModuleSyntax": true,
     // other
     "noErrorTruncation": true,
